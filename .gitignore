@@ -2,4 +2,4 @@
 appengine-generated/
 
 # IntelliJ .idea files
-/.idea/*
+/.idea/

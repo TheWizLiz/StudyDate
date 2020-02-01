@@ -17,5 +17,7 @@
   <body>
   <h1>StudyDate</h1>
   <h3>Welcome to Study Date, where studying is as easy as speed dating!</h3>
+  <h4>Google Maps Implementation Test</h4>
+    <img src="https://maps.googleapis.com/maps/api/staticmap?center=Berkeley,CA&zoom=14&size=400x400"/>   
   </body>
 </html>
