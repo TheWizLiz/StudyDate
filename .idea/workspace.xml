@@ -6,13 +6,23 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66436343-8d46-46dd-b9bd-9950b8c90de2" name="Default Changelist" comment="" />
+    <list default="true" id="66436343-8d46-46dd-b9bd-9950b8c90de2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/StudyDate_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/StudyDate_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XDFUY9wekPdn0rvveXGTrd5wJU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,12 +33,15 @@
     <property name="ACTIVE_CLOUD_PROJECT_ID" value="study-date-266915" />
     <property name="ACTIVE_CLOUD_PROJECT_NAME" value="Study Date" />
     <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="969230225689" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Google App Engine Deployment.Google App Engine Deployment">
     <configuration name="Google Stackdriver Debug" type="GCPDebug" factoryName="Google Stackdriver Debug">
@@ -36,7 +49,7 @@
     </configuration>
     <configuration name="Google App Engine Deployment" type="gcp-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine">
       <deployment type="appengine-artifact-source" name="StudyDate:war exploded" project="study-date-266915" version="auto">
-        <settings cloudProjectName="study-date-266915" deployAllConfigs="true" environment="APP_ENGINE_STANDARD" googleUsername="gabriel.turmail@gmail.com" version="" />
+        <settings cloudProjectName="study-date-266915" deployAllConfigs="true" environment="APP_ENGINE_STANDARD" googleUsername="gabriel.turmail@gmail.com" promote="true" stopPreviousVersion="true" version="" />
       </deployment>
       <method v="2">
         <option name="BuildArtifacts" enabled="true">
@@ -146,11 +159,15 @@
       <option name="presentableId" value="Default" />
       <updated>1580572774260</updated>
       <workItem from="1580572777599" duration="880000" />
+      <workItem from="1580575550182" duration="1812000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1777" y="570" key="#BuildArtifactsBeforeRunChooser" timestamp="1580572854891">
@@ -161,33 +178,41 @@
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state x="1308" y="204" key="#Google_App_Engine/0.0.3840.2060@0.0.3840.2060" timestamp="1580572827135" />
-    <state x="904" y="176" key="#Project_Structure" timestamp="1580573655113">
+    <state x="904" y="176" key="#Project_Structure" timestamp="1580575670087">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state x="904" y="176" key="#Project_Structure/0.0.3840.2060@0.0.3840.2060" timestamp="1580573655113" />
-    <state x="1340" y="401" width="2053" height="1387" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580572916484">
+    <state x="904" y="176" key="#Project_Structure/0.0.3840.2060@0.0.3840.2060" timestamp="1580575670087" />
+    <state x="1340" y="401" width="2053" height="1387" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580576192267">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state x="1340" y="401" width="2053" height="1387" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1580572916484" />
+    <state x="1340" y="401" width="2053" height="1387" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1580576192267" />
     <state x="1475" y="826" key="Github.CreateGistDialog" timestamp="1580573268689">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state x="1475" y="826" key="Github.CreateGistDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1580573268689" />
-    <state width="2560" height="518" key="GridCell.Tab.0.bottom" timestamp="1580573658177">
+    <state width="2560" height="517" key="GridCell.Tab.0.bottom" timestamp="1580576066506">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state width="2560" height="518" key="GridCell.Tab.0.bottom/0.0.3840.2060@0.0.3840.2060" timestamp="1580573658177" />
-    <state width="2560" height="518" key="GridCell.Tab.0.center" timestamp="1580573658177">
+    <state width="2560" height="517" key="GridCell.Tab.0.bottom/0.0.3840.2060@0.0.3840.2060" timestamp="1580576066506" />
+    <state width="2560" height="517" key="GridCell.Tab.0.center" timestamp="1580576066506">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state width="2560" height="518" key="GridCell.Tab.0.center/0.0.3840.2060@0.0.3840.2060" timestamp="1580573658177" />
-    <state width="2560" height="518" key="GridCell.Tab.0.left" timestamp="1580573658177">
+    <state width="2560" height="517" key="GridCell.Tab.0.center/0.0.3840.2060@0.0.3840.2060" timestamp="1580576066506" />
+    <state width="2560" height="517" key="GridCell.Tab.0.left" timestamp="1580576066506">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state width="2560" height="518" key="GridCell.Tab.0.left/0.0.3840.2060@0.0.3840.2060" timestamp="1580573658177" />
-    <state width="2560" height="518" key="GridCell.Tab.0.right" timestamp="1580573658177">
+    <state width="2560" height="517" key="GridCell.Tab.0.left/0.0.3840.2060@0.0.3840.2060" timestamp="1580576066506" />
+    <state width="2560" height="517" key="GridCell.Tab.0.right" timestamp="1580576066506">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
-    <state width="2560" height="518" key="GridCell.Tab.0.right/0.0.3840.2060@0.0.3840.2060" timestamp="1580573658177" />
+    <state width="2560" height="517" key="GridCell.Tab.0.right/0.0.3840.2060@0.0.3840.2060" timestamp="1580576066506" />
+    <state x="695" y="111" key="SettingsEditor" timestamp="1580575854516">
+      <screen x="0" y="0" width="3840" height="2060" />
+    </state>
+    <state x="695" y="111" key="SettingsEditor/0.0.3840.2060@0.0.3840.2060" timestamp="1580575854516" />
+    <state x="1161" y="590" key="com.intellij.ide.util.TipDialog" timestamp="1580575573372">
+      <screen x="0" y="0" width="3840" height="2060" />
+    </state>
+    <state x="1161" y="590" key="com.intellij.ide.util.TipDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1580575573372" />
   </component>
 </project>
