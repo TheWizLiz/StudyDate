@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="66436343-8d46-46dd-b9bd-9950b8c90de2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/StudyDate_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/StudyDate_war_exploded/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,8 +158,16 @@
       <option name="presentableId" value="Default" />
       <updated>1580572774260</updated>
       <workItem from="1580572777599" duration="880000" />
-      <workItem from="1580575550182" duration="1812000" />
+      <workItem from="1580575550182" duration="2488000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Template Page">
+      <created>1580578072470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580578072470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Created Template Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Template Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1777" y="570" key="#BuildArtifactsBeforeRunChooser" timestamp="1580572854891">
@@ -186,6 +195,10 @@
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state x="1340" y="401" width="2053" height="1387" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2060@0.0.3840.2060" timestamp="1580576192267" />
+    <state x="980" y="172" key="CommitChangelistDialog2" timestamp="1580578071942">
+      <screen x="0" y="0" width="3840" height="2060" />
+    </state>
+    <state x="980" y="172" key="CommitChangelistDialog2/0.0.3840.2060@0.0.3840.2060" timestamp="1580578071942" />
     <state x="1475" y="826" key="Github.CreateGistDialog" timestamp="1580573268689">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
@@ -210,6 +223,10 @@
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
     <state x="695" y="111" key="SettingsEditor/0.0.3840.2060@0.0.3840.2060" timestamp="1580575854516" />
+    <state x="904" y="363" key="Vcs.Push.Dialog.v2" timestamp="1580578075651">
+      <screen x="0" y="0" width="3840" height="2060" />
+    </state>
+    <state x="904" y="363" key="Vcs.Push.Dialog.v2/0.0.3840.2060@0.0.3840.2060" timestamp="1580578075651" />
     <state x="1161" y="590" key="com.intellij.ide.util.TipDialog" timestamp="1580575573372">
       <screen x="0" y="0" width="3840" height="2060" />
     </state>
